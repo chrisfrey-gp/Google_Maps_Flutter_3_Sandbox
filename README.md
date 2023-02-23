@@ -2,7 +2,7 @@
 
 Sandbox for Playing around with Google_Maps and Flutter 3.x SDK
 
-Initially based off of [this](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter#0) maps tutorial and [this](https://github.com/flutter/flutter/issues/105965) reported bug.
+Initially based off of [this](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter) maps tutorial and [this](https://github.com/flutter/flutter/issues/105965) reported bug.
 
 ## Local Environment
 Use flutter 3.0 or higher SDK
